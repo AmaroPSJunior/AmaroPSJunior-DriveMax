@@ -1,0 +1,6 @@
+{
+  "name": "Driver Optimal Assistant",
+  "description": "Android driver assistant simulator and code workspace. Simulates real-time inDrive screen parsing, Google Maps/OSM/Mapbox toggle, and top 5 route optimization. Contains real Kotlin sources and GitHub Actions build automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
